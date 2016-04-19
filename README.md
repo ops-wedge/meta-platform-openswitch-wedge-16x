@@ -1,2 +1,3 @@
-# meta-platform-openswitch-wedge
-OpenSwitch Wedge support layer
+# meta-platform-openswitch-wedge-16x
+
+OpenSwitch Wedge 16X-AC support layer
